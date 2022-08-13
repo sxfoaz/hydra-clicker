@@ -12,3 +12,5 @@
 `F1 - F12` - Нажимаемая клавиша.
 
 `Asterios Xandir` - Название окна для активации. 
+
+[Скачать последнию версию](https://github.com/sxfoaz/hydra-clicker/releases/)
