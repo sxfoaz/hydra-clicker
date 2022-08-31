@@ -1,6 +1,6 @@
 ## Hydra Clicker
 
-![](https://i.imgur.com/ugjn5zs.png)
+![](https://i.imgur.com/mI6YxLa.png)
 
 Фоновый кликер написанный на AHK.
 
@@ -11,6 +11,6 @@
 
 `F1 - F12` - Нажимаемая клавиша.
 
-`Asterios Xandir` - Название окна для активации. 
+`Asterios` - Название окна для активации. 
 
 [Скачать последнию версию](https://github.com/sxfoaz/hydra-clicker/releases/)
